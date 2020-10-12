@@ -9,7 +9,7 @@ display filter
 看你 要的
 
 
-* FTP
+* FTP File Transfer Protocol
 C:\Users\KSUIE>ftp 120.114.62.207
 已連線到 120.114.62.207。
 220 (vsFTPd 3.0.3)
@@ -23,3 +23,21 @@ ftp>
 
 
 !.[wireshark].(./20201012)
+
+
+web
+authoriqtion
+baeic=> baseb64
+digest
+
+1主機弱掃2.網路弱掃3.源碼檢測 4. 社交工程演練 5. 惡意程式檢測
+問能不能掃ddos 內部基本上沒有DDOS 不用掃 除了外部
+
+openvas 回家弄
+https://ithelp.ithome.com.tw/articles/10216345
+
+
+
+
+
+
