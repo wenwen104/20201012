@@ -1,0 +1,25 @@
+htpps 
+
+wireshark
+1.錄封包 
+2.分析
+capture filter 
+擷取    過濾
+display filter
+看你 要的
+
+
+* FTP
+C:\Users\KSUIE>ftp 120.114.62.207
+已連線到 120.114.62.207。
+220 (vsFTPd 3.0.3)
+200 Always in UTF8 mode.
+使用者 (120.114.62.207:(none)): tefdsf
+331 Please specify the password.
+密碼:
+530 Login incorrect.
+登入失敗。
+ftp>
+
+
+!.[wireshark].(./20201012)
